@@ -7,4 +7,6 @@ We created 4 levels to test the functionality of the game with 2 easy levels and
 The game works on a Cyclone 3 FPGA, whose documentation can be found using the following link:
 http://rti.etf.bg.ac.rs/rti/oo1pot/labvezbe/cyclone3_handbook.pdf
 
+# IMPORTANT
+Because there are over 200 files that are used in this project i have grouped them into 3 rar files.
 The documentatin that is presented with this project is in Serbian language.
